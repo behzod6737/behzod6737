@@ -1,21 +1,19 @@
+```yaml
 name: Behzod Iskandarov
 from: Uzbekistan, Tashkent
 job: Front-End React Developer
 
 fields-of-interests: Front-End Development
 hobbies: Learning Languages, reading books,
+```
 
-<!--
-**behzod6737/behzod6737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me: 
+* Mail: behzod4214974@gmail.com
+* Telegram: https://t.me/behzod6737
+* Linkedin: [https://t.me/theal1eev](https://www.linkedin.com/in/behzodiskandarov/)
 
-Here are some ideas to get you started:
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/behzodiskandarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/behzodiskandarov/" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
