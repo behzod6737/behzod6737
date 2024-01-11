@@ -6,7 +6,7 @@ job: Front-End React Developer
 fields-of-interests: Front-End Development
 hobbies: Learning Languages, reading books,
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzod6737&show_icons=true&theme=radical)
+
 ## 📫 How to reach me: 
 * Mail: behzod4214974@gmail.com
 * Telegram: https://t.me/behzod6737
