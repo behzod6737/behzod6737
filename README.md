@@ -10,10 +10,10 @@ hobbies: Learning Languages, reading books,
 ## 📫 How to reach me: 
 * Mail: behzod4214974@gmail.com
 * Telegram: https://t.me/behzod6737
-* Linkedin: [https://t.me/theal1eev](https://www.linkedin.com/in/behzodiskandarov/)
+* Linkedin: [https://www.linkedin.com/in/behzodiskandarov/](https://www.linkedin.com/in/behzodiskandarov/)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/behzodiskandarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/behzodiskandarov/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/behzodiskandarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/behzodiskandarov/" height="30" width="40" /></a>
 </p>
 
