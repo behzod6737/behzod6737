@@ -1,4 +1,9 @@
-### Hi there 👋
+name: Behzod Iskandarov
+from: Uzbekistan, Tashkent
+job: Front-End React Developer
+
+fields-of-interests: Front-End Development
+hobbies: Learning Languages, reading books,
 
 <!--
 **behzod6737/behzod6737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
