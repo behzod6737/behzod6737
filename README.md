@@ -9,7 +9,7 @@ hobbies: Learning Languages, reading books,
 
 ## 📫 How to reach me: 
 * Mail: behzod4214974@gmail.com
-* Telegram: https://t.me/behzod6737
+* Telegram: https://t.me/Behzoddeveloper
 * Linkedin: [https://www.linkedin.com/in/behzodiskandarov/](https://www.linkedin.com/in/behzodiskandarov/)
 
 <h3 align="left">Socials:</h3>
